@@ -35,7 +35,7 @@ public class Solution {
                 start++;
             }
             if(currentSum == S){
-                System.out.println("Sum found between indexes " + start + " and " + (i - 1));
+                System.out.println(start + 1 + " and " + i);
                 return;
             }
             if(i < N)
