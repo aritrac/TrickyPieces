@@ -2,6 +2,15 @@ package aritra.soln.subarrayWithGivenSumPositive.approach1;
 
 import java.util.Scanner;
 
+/*
+Sample Input to be provided
+2
+5 12
+1 2 3 7 5
+10 15
+1 2 3 4 5 6 7 8 9 10
+ */
+
 /**
  * author: Aritra Chatterjee
  * Link -> https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0
